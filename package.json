@@ -43,5 +43,6 @@
   ],
   "files": [
     "index.d.ts"
-  ]
+  ],
+  "postinstall": "tsc --outDir ./build"
 }
