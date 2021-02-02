@@ -1,5 +1,5 @@
-import textValues, {DeclensionNumberNames, numberNames} from 'textValues';
-import {ConvertedScalesToWords} from 'typeScript/interfaces/ConvertedScalesToWords';
+import textValues, {DeclensionNumberNames, numberNames} from '../textValues';
+import {ConvertedScalesToWords} from '../typeScript/interfaces/ConvertedScalesToWords';
 import genders, {Gender} from "../units/genders";
 import {Declension, declensions} from "../units/declensions";
 import getUnitName from "../units/functions/getUnitName";

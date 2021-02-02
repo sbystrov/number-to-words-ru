@@ -1,5 +1,5 @@
 import {Declension, declensions} from "../declensions";
-import unitNames from 'units/unitNames';
+import unitNames from '../unitNames';
 
 const integerWordEndings = {
   [declensions.NOMINATIVE]: ['', 'а'],

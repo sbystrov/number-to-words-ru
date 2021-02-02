@@ -1,10 +1,10 @@
-import genders from 'units/genders';
-import slashNumberForms from 'units/slashNumberForms';
-import getFractionalNameForms from 'units/functions/getFractionalNameForms';
-import getSlashNumberUnitName from 'units/functions/getSlashNumberUnitName';
-import {stringCurrencies} from 'units/stringCurrencies';
-import {CurrencyStringValues} from 'typeScript/interfaces/CurrencyStringValues';
-import {SlashNumberForms} from 'typeScript/interfaces/SlashNumberForms';
+import genders from './units/genders';
+import slashNumberForms from './units/slashNumberForms';
+import getFractionalNameForms from './units/functions/getFractionalNameForms';
+import getSlashNumberUnitName from './units/functions/getSlashNumberUnitName';
+import {stringCurrencies} from './units/stringCurrencies';
+import {CurrencyStringValues} from './typeScript/interfaces/CurrencyStringValues';
+import {SlashNumberForms} from './typeScript/interfaces/SlashNumberForms';
 import {declensions} from "./units/declensions";
 
 type DeclensionNumberName = string | {

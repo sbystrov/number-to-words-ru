@@ -1,4 +1,4 @@
-import {CurrencyStringValues} from 'typeScript/interfaces/CurrencyStringValues';
+import {CurrencyStringValues} from '../typeScript/interfaces/CurrencyStringValues';
 import {declensions} from "./declensions";
 
 const defaultParams = {

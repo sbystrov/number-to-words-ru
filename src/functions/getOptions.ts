@@ -1,6 +1,6 @@
 import * as _ from 'lodash';
-import defaultOptions from 'defaultOptions';
-import {ConvertOptions} from 'typeScript/interfaces/ConvertInterfaces';
+import defaultOptions from '../defaultOptions';
+import {ConvertOptions} from '../typeScript/interfaces/ConvertInterfaces';
 
 /**
  * Получить опции конверирования.

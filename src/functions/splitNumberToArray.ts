@@ -1,4 +1,4 @@
-import {ConvertOptions} from 'typeScript/interfaces/ConvertInterfaces';
+import {ConvertOptions} from '../typeScript/interfaces/ConvertInterfaces';
 
 /**
  * Разделить число на части.

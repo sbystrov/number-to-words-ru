@@ -1,5 +1,5 @@
-import textValues from 'textValues';
-import convertsEachScaleToWords from 'functions/convertsEachScaleToWords';
+import textValues from '../textValues';
+import convertsEachScaleToWords from './convertsEachScaleToWords';
 
 /**
  * Конвертировать в текст массив числа с разделителем "/".

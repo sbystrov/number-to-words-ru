@@ -1,4 +1,4 @@
-import {ConvertOptions} from 'typeScript/interfaces/ConvertInterfaces';
+import {ConvertOptions} from './typeScript/interfaces/ConvertInterfaces';
 import declensions from "./units/declensions";
 
 const defaultOptions: ConvertOptions = {

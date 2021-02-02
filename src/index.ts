@@ -1,4 +1,4 @@
-import methodConvert from 'methods/convert';
+import methodConvert from './methods/convert';
 
 const numberToWordsRu = {
   convert: methodConvert,

@@ -1,4 +1,4 @@
-import {SlashNumberForms} from 'typeScript/interfaces/SlashNumberForms';
+import {SlashNumberForms} from '../typeScript/interfaces/SlashNumberForms';
 
 const slashNumberForms: SlashNumberForms = {
   number: [

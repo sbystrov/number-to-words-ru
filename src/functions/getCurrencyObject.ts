@@ -1,10 +1,10 @@
-import textValues from 'textValues';
-import defaultOptions from 'defaultOptions';
-import updateObjectDeep from 'functions/updateObjectDeep';
+import textValues from '../textValues';
+import defaultOptions from '../defaultOptions';
+import updateObjectDeep from '../functions/updateObjectDeep';
 import {
   ConvertOptions,
   CurrencySettings,
-} from 'typeScript/interfaces/ConvertInterfaces';
+} from '../typeScript/interfaces/ConvertInterfaces';
 
 /**
  * Получить объект с данными валюты.

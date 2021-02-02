@@ -1,4 +1,4 @@
-import {CurrencySettings} from 'typeScript/interfaces/ConvertInterfaces';
+import {CurrencySettings} from '../typeScript/interfaces/ConvertInterfaces';
 
 /**
  * Сделать так, чтобы у дробной части числа

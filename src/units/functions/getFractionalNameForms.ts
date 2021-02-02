@@ -2,8 +2,8 @@ import {
   fractional,
   fractionalWordEndings,
   fractionalWordPrefixes,
-} from 'units/fractional';
-import getUnitName from "units/functions/getUnitName";
+} from '../fractional';
+import getUnitName from "./getUnitName";
 import declensions from "../declensions";
 
 /**
